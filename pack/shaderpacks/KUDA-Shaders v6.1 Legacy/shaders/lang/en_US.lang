@@ -1,0 +1,88 @@
+#Main
+screen.PostProcess=Post Process
+
+#Shadows
+option.shadowMapResolution=Shadow Resolution
+option.shadowDistance=Shadow Distance
+option.shadowAcneFixMul=Acne-Fix multiplier
+option.fixUndergroundShadows=Fix underground Shadows
+option.shadowMapBias=Shadow Bias
+option.softShadows=Soft Shadows
+option.normalMapping=Normal Mapping
+option.shadowSamples=Shadow Samples
+option.normalMapStrength=Normal Map strength
+option.ambientOcclusionLevel=Default AO level
+
+#Environment
+option.fogBlur=Fog Blur
+option.stars=Stars
+option.clouds=2D Clouds
+option.windyTerrain=Windy Terrain
+option.heatwave=Heatwave
+
+#Environment -> Weather
+option.airDensity=Air Density
+option.windSpeed=Wind Speed
+option.dynamicWeather=Dynamic Weather
+option.weatherRatioSpeed=Weather Ratio Speed
+option.useMoonPhases=Use Moon Phases
+option.useFixedWeatherRatio=Use fixed Weather Ratio
+option.cloudCover=Cloud Cover
+
+#Environment -> Light
+option.minimumLight=Minimum Light
+option.torchlightRadius=Torchlight Radius
+option.torchlightBrightness=Torchlight Brightness
+option.volumetricLight=Volumetric Light
+option.vlRaysStrength=VL Strength
+option.vlQuality=VL Quality
+option.vlRenderDistance=VL Render Distance
+
+#Effects
+screen.BlurEffects=Blur Effects
+option.shakingHand=Shaking Hand
+option.shakingCamera=Shaking Camera
+option.jitter=Jitter
+option.raindropsOnScreen=Raindrops on Screen
+
+#Effects -> BlurEffects
+option.motionblur=Motionblur
+option.motionblurAmount=Motionblur Amount
+option.depthOfField=Depth of Field
+option.distanceBlur=Distance Blur
+option.HQFocus=HQ Focus
+option.blurFactor=Blur Factor
+option.underwaterBlur=Underwater Blur
+option.centerDepthHalflife=Focus Speed
+
+#Effects -> bloom
+option.bloom=bloom
+option.anamorphicLens=Anamorphic lens flare
+option.dirtyLens=Dirty lens
+#Bloom -> AnamorphicOptions
+option.anamorphicLensIntensity=Anamorphic Lens Intensity
+option.anamorphicLensSamples=Anamorphic Lens Samples
+
+#PostProcess
+option.cameraNoise=Camera Noise
+option.chromaticAbberation=Chromatic Abberation
+option.vignette=vignette
+option.cinematicMode=Cinematic Mode
+
+#PostProcess -> Tonemapping
+option.enableTonemapping=Enable Tonemapping
+option.exposure=Exposure
+option.contrast=Constrast
+option.saturation=Saturation
+
+#Surface
+option.reflections=Screen Space reflections
+option.rainPuddles=Rain puddles
+option.parallaxOcclusionMapping=Parallax Occlusion Mapping (POM)
+option.pomDepth=POM Depth
+
+#Surface -> Water
+option.waterShader=Water Shader
+option.waterRefraction=Water Refraction
+option.waterCaustics=Water Caustics
+option.parallaxWater=Parallax water

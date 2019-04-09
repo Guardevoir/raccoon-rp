@@ -1,0 +1,16 @@
+########################################
+##              Credits               ##
+########################################
+
+
+sp614x: Thanks for keep updating the shaders mod!
+Daxnitro: Thanks for the orginal GLSL shaders mod, to make this here all possible!
+Chocapic13: A huge thank you to him for helping me and using parts of his code!
+robobo1221: Thanks for helping me doing proper tonemapping
+Capt Tatsu: Thanks for explaining me how bloom works and to let me use his bloom
+Blackops7799: Better SSAO (Used in KUDA-Shaders v5 and older).
+Jodie: Thanks for letting me use his awesome ambient occlusion
+Gerard Geer: Random dots function for dirty lens
+Patrick (Arajdon): Thank you for making my own website!
+My donators: Thank you all for supporting me!
+You: Thanks for downloading and playing with my shaderpack! ;)

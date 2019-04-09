@@ -1,0 +1,11 @@
+{
+  "channels": [
+    {
+      "name": "mr_happypants",
+      "subscribersOnly": false,
+      "channelId": 79224347,
+      "deletedMessages": "Replace",
+      "active": true
+    }
+  ]
+}

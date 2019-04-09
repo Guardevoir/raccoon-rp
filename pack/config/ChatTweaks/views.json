@@ -1,0 +1,67 @@
+{
+  "views": [
+    {
+      "name": "Minecraft Chat",
+      "filterPattern": "",
+      "outputFormat": "$0",
+      "style": "Chat",
+      "isExclusive": false,
+      "isMuted": false,
+      "channels": [
+        "main",
+        "interaction",
+        "system",
+        "death"
+      ]
+    },
+    {
+      "name": "Twitch Chat",
+      "filterPattern": "",
+      "outputFormat": "$0",
+      "style": "Chat",
+      "outgoingPrefix": "/twitch #mr_happypants ",
+      "isExclusive": false,
+      "isMuted": false,
+      "channels": [
+        "mr_happypants"
+      ]
+    },
+    {
+      "name": "Minecraft + Twitch",
+      "filterPattern": "",
+      "outputFormat": "$0",
+      "style": "Chat",
+      "isExclusive": false,
+      "isMuted": false,
+      "channels": [
+        "mr_happypants",
+        "system",
+        "death",
+        "interaction",
+        "main"
+      ]
+    },
+    {
+      "name": "system",
+      "filterPattern": "",
+      "outputFormat": "$0",
+      "style": "Side",
+      "isExclusive": true,
+      "isMuted": false,
+      "channels": [
+        "system"
+      ]
+    },
+    {
+      "name": "interaction",
+      "filterPattern": "",
+      "outputFormat": "$0",
+      "style": "Bottom",
+      "isExclusive": true,
+      "isMuted": false,
+      "channels": [
+        "interaction"
+      ]
+    }
+  ]
+}
